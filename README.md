@@ -1,5 +1,4 @@
 <h1 align="center">.NET & C# Developer</h1>
-<h3 align="center">student at IT-Högskolan</h3>
 
 
 
